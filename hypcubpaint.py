@@ -24,4 +24,4 @@ def paint(hypcubdem):
     print("There are " + str(sCount) + " " + str(len(hypcubdem)) + "-cubes with " + str(d) + " sides painted in a " + str(hypcubdem) + " square/cube/tesseract/other object")
     d += 1
   
-paint([4, 4, 4, 4, 4, 4, 4, 4])
+paint([4, 4, 4, 4, 4, 4, 4, 4]) #place here all of the side lengths of your hypercube
